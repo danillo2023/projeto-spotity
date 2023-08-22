@@ -4,6 +4,9 @@
 
 # comando  npx create-next-app@latest tawildin-spotify
 
+# Toda vez que clona um projeto fazer o npm i  p/estalar dependencia do node_modules
+
+
 ```
 Comando do git
 
