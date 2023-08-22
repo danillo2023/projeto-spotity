@@ -1,4 +1,8 @@
-*** Projeto Tawildin Spotify
+### Projeto Tawildin Spotify
+
+## O projeto é no Next-JS
+
+# comando  npx create-next-app@latest tawildin-spotify
 
 ```
 Comando do git
